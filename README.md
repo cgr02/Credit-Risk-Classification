@@ -4,15 +4,20 @@
 
 ---
 
-# Credit Risk Classification
+### Authors
+
+[Carlos Andres Gutierrez](https://github.com/cgr02) — 2225109  
+Cesar David Ascensio — 2235003
+
+
+### Objective
 
 Predicting whether a person will default on a loan using Machine Learning, Deep Learning,
 and unsupervised learning techniques. Financial variables were used to train and compare
 classification models to determine which best predicts the credit default risk of a loan applicant.
 
----
 
-## Dataset
+### Dataset
 
 **Credit Risk Dataset — Kaggle**  
 https://www.kaggle.com/datasets/laotse/credit-risk-dataset
@@ -22,14 +27,14 @@ of predicting loan default risk. It contains **32,581 records** and **12 variabl
 loan status (`loan_status` as the target variable), requested amount, annual income,
 applicant age, interest rate, and prior credit history.
 
----
 
-## Authors
+### Models
 
-[Carlos Andres Gutierrez](https://github.com/cgr02) — 2225109  
-Cesar David Ascensio — 2235003
+- Decision Tree Classifier — scikit-learn  
+- Random Forest Classifier — scikit-learn  
+- Support Vector Classifier (SVC) — scikit-learn  
+- Deep Neural Network (DNN) — TensorFlow / Keras
 
----
 
 ## Resources
 
