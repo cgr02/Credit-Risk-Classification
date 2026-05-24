@@ -6,8 +6,8 @@
 
 ### Authors
 
-[Carlos Andres Gutierrez](https://github.com/cgr02) — 2225109  
-[Cesar David Ascencio](https://github.com/as-cesar) — 2235003
+- [Carlos Andres Gutierrez](https://github.com/cgr02) — 2225109  
+- [Cesar David Ascencio](https://github.com/as-cesar) — 2235003
 
 
 ### Objective
