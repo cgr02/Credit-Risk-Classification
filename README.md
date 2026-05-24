@@ -7,7 +7,7 @@
 ### Authors
 
 [Carlos Andres Gutierrez](https://github.com/cgr02) — 2225109  
-Cesar David Ascensio — 2235003
+[Cesar David Ascencio](https://github.com/as-cesar) — 2235003
 
 
 ### Objective
@@ -36,7 +36,7 @@ applicant age, interest rate, and prior credit history.
 - Deep Neural Network (DNN) — TensorFlow / Keras
 
 
-## Resources
+### Resources
 
 📓 Notebook — `notebook.ipynb` (available in this repository)  
 📊 Slides — `slides.pdf` (available in this repository)  
