@@ -1,1 +1,38 @@
-# Credit-Risk-Classification
+<p align="center">
+  <img src="assets/banner.png" alt="Credit Risk Classification Banner" width="100%"/>
+</p>
+
+---
+
+# Credit Risk Classification
+
+Predicting whether a person will default on a loan using Machine Learning, Deep Learning,
+and unsupervised learning techniques. Financial variables were used to train and compare
+classification models to determine which best predicts the credit default risk of a loan applicant.
+
+---
+
+## Dataset
+
+**Credit Risk Dataset — Kaggle**  
+https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+
+This dataset simulates credit bureau information for training machine learning models capable
+of predicting loan default risk. It contains **32,581 records** and **12 variables**, including
+loan status (`loan_status` as the target variable), requested amount, annual income,
+applicant age, interest rate, and prior credit history.
+
+---
+
+## Authors
+
+[Carlos Andres Gutierrez](https://github.com/cgr02) — 2225109  
+Cesar David Ascensio — 2235003
+
+---
+
+## Resources
+
+📓 Notebook — `notebook.ipynb` (available in this repository)  
+📊 Slides — `slides.pdf` (available in this repository)  
+🎥 Video — [Watch on YouTube](https://youtu.be/XXXXXXX)
