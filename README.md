@@ -34,6 +34,9 @@ applicant age, interest rate, and prior credit history.
 - Random Forest Classifier — scikit-learn  
 - Support Vector Classifier (SVC) — scikit-learn  
 - Deep Neural Network (DNN) — TensorFlow / Keras
+- Non Supervised Learning 
+- K-Means / DBSCAN
+- PCA
 
 
 ### Resources
