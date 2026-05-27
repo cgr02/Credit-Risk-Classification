@@ -41,6 +41,6 @@ applicant age, interest rate, and prior credit history.
 
 ### Resources
 
-📓 Notebook — `notebook.ipynb` (available in this repository)  
+📓 Notebook — `credit_risk.ipynb` (available in this repository)  
 📊 Slides — `slides.pdf` (available in this repository)  
-🎥 Video — [Watch on YouTube](https://youtu.be/XXXXXXX)
+🎥 Video — [Watch on YouTube](https://youtu.be/6GwW-a3CWkE?si=7KGMUYVaKwxvMSFv)
